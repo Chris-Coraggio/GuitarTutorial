@@ -23,3 +23,16 @@ a{
 img{
 	border: 3px solid black !important;
 }
+
+body{
+	align-content: center;
+}
+
+/*Slim screen width for large screens */
+@media (min-width: 991px) {
+	#master-container{
+		width: 60%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
