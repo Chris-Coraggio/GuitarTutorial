@@ -1,0 +1,25 @@
+h2{
+	margin-top: 10vh !important;
+	text-decoration: underline;
+}
+
+h1, h2, h3, .image-holder{
+	text-align: center;
+}
+
+h1, h2, h3, p{
+	font-family: "Roboto";
+	text-shadow: 0px 8px 13px rgba(0,0,0,0.1);
+}
+
+#master-container{
+	background-color: #8b8b83;
+}
+
+a{
+	color: black !important;
+}
+
+img{
+	border: 3px solid black !important;
+}
