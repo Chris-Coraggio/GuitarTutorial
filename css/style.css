@@ -1,5 +1,5 @@
 h2{
-	margin-top: 10vh !important;
+	margin-top: 10vh;
 	text-decoration: underline;
 }
 
@@ -17,11 +17,11 @@ h1, h2, h3, p{
 }
 
 a{
-	color: black !important;
+	color: black;
 }
 
 img{
-	border: 3px solid black !important;
+	border: 3px solid black;
 }
 
 body{
@@ -35,6 +35,11 @@ body{
 
 #contact-button{
 	margin-left: 15px;
+}
+
+p{
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 /*Slim screen width for large screens */
